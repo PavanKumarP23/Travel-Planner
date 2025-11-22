@@ -1,0 +1,14 @@
+[
+  {
+    "id": "nyc",
+    "name": "New York City",
+    "img": "https://images.unsplash.com/photo-1549921296-3f2f0a3d2b0b",
+    "places": [
+      { "type": "attractions", "name": "Statue of Liberty", "rating": 4.8 },
+      { "type": "parks", "name": "Central Park", "rating": 4.9 }
+    ],
+    "hotels": [
+      { "name": "NYC Grand Hotel", "rating": 4.3, "price": 200 }
+    ]
+  }
+]
